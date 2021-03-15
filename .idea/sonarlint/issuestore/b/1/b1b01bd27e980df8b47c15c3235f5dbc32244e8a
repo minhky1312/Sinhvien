@@ -1,0 +1,192 @@
+
+e
+java:S2095Ö"GUse try-with-resources or close this "Statement" in a "finally" clause.(ÏÜ¦¹8ıš ƒ/
+\
+java:S1128"@Remove this unused import 'javax.swing.table.TableCellRenderer'.(É¡“8“Ö¼ÿ.
+Q
+java:S1874è".Remove this use of "enable"; it is deprecated.(’ô‚§úÿÿÿÿ8Ş¾²¬‚/
+p	java:S100Ê"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½óÇˆÿÿÿÿÿ8ĞëÌ’ÿ.
+c
+java:S1124Ü"EReorder the modifiers to comply with the Java Language Specification.(â­‰¨8‘£®/
+L
+java:S1874‰".Remove this use of "enable"; it is deprecated.(º³¸ 8™ÓÆ­‚/
+T
+java:S2696²"6Make the enclosing method "static" or remove this set.(çÚåÉ8ïå­/
+k
+java:S2095å"HUse try-with-resources or close this "Connection" in a "finally" clause.(½ëÉúÿÿÿÿ8‚— ƒ/
+^	java:S125Ø"<This block of commented-out lines of code should be removed.(¹ã®¾ÿÿÿÿÿ8¼¬Çÿ.
+M
+java:S3740ª"/Provide the parametrized type for this generic.(±¯†8ÂÕ«‚/
+{
+java:S2293("YReplace the type specification in this constructor call with the diamond operator ("<>").(ê¦³Éşÿÿÿÿ8Õ¶ª‚/
+d
+java:S1858ä"F"lop" is already a string, there's no need to call "toString()" on it.( äñÁ8ıš ƒ/
+[	java:S106ë"9Replace this use of System.out or System.err by a logger.(çœŠ…şÿÿÿÿ8ıš ƒ/
+L
+java:S2115å")Add password protection to this database.(½ëÉúÿÿÿÿ8‚— ƒ/
+K
+java:S1604¯"(Make this anonymous inner class a lambda(’úƒÊûÿÿÿÿ8ïå­/
+Z	java:S106W"9Replace this use of System.out or System.err by a logger.(çœŠ…şÿÿÿÿ8²Şê‘ÿ.
+D
+java:S3010Æ"&Remove this assignment of "crudtable".(šèÅØ8î»°¬‚/
+Q
+java:S1874Â".Remove this use of "enable"; it is deprecated.(±³¶ıÿÿÿÿ8°ôÜ¬‚/
+>
+java:S3010Ä" Remove this assignment of "max".(ºÆ£8©ãÒ°/
+n
+java:S3008!"QRename this field "CBBlop" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æÏ€á8ÑÉìª‚/
+L
+java:S1874‹".Remove this use of "enable"; it is deprecated.(å²Â8›Ç­‚/
+:
+java:S1116°"Remove this empty statement.(´‡Ì›8‚ì­©‚/
+s
+java:S3008*"QRename this field "DB_URL" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ö°´œúÿÿÿÿ8ïå­/
+L
+java:S2115ô")Add password protection to this database.(½ëÉúÿÿÿÿ8ıš ƒ/
+>
+java:S3010µ" Remove this assignment of "min".(í‡À8íÏÉ¯/
+v
+java:S3008+"TRename this field "USER_NAME" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒëæ‚ıÿÿÿÿ8¶óæ‘ÿ.
+[	java:S106"9Replace this use of System.out or System.err by a logger.(çœŠ…şÿÿÿÿ8ıš ƒ/
+k
+java:S2095‚"HUse try-with-resources or close this "Connection" in a "finally" clause.(½ëÉúÿÿÿÿ8İøÚ’ÿ.
+K
+java:S1604»"(Make this anonymous inner class a lambda(Ë“Šëÿÿÿÿÿ8ïå­/
+K
+java:S2115;")Add password protection to this database.(½ëÉúÿÿÿÿ8İøÚ’ÿ.
+j
+java:S3973´"GUse indentation to denote the code conditionally executed by this "if".(×•·Åøÿÿÿÿ8ıš ƒ/
+[	java:S106î"9Replace this use of System.out or System.err by a logger.(çœŠ…şÿÿÿÿ8ıš ƒ/
+c
+java:S1124Ñ"EReorder the modifiers to comply with the Java Language Specification.(’şíÖ8ıš ƒ/
+e
+java:S2095æ"GUse try-with-resources or close this "Statement" in a "finally" clause.(ÏÜ¦¹8‚— ƒ/
+F
+java:S3010Å"#Remove this assignment of "countt".(é„øÿÿÿÿ8–³ä°/
+L
+java:S1874ç".Remove this use of "enable"; it is deprecated.(ù•Ú¥8Ş¾²¬‚/
+A
+java:S3010ª"#Remove this assignment of "CBBlop".(±¯†8­æ®¬‚/
+R
+java:S3740²"/Provide the parametrized type for this generic.(¥Ş°‡ÿÿÿÿÿ8œ›ª°/
+e
+java:S2095õ"GUse try-with-resources or close this "Statement" in a "finally" clause.(ÏÜ¦¹8ıš ƒ/
+Y
+java:S2696Å"6Make the enclosing method "static" or remove this set.(é„øÿÿÿÿ8–³ä°/
+v
+java:S2293Ó"YReplace the type specification in this constructor call with the diamond operator ("<>").(¡¦Ç8ıš ƒ/
+m
+java:S1192{"PDefine a constant instead of duplicating this literal "TÃªn sinh viÃªn" 3 times.(µ™«Í8é·È©‚/
+l
+java:S1192t"ODefine a constant instead of duplicating this literal "ID Sinh viÃªn " 3 times.(¬Óøß8«çÆ©‚/
+T
+java:S2696µ"6Make the enclosing method "static" or remove this set.(í‡À8íÏÉ¯/
+?
+java:S1116»"Remove this empty statement.(„§‘Àıÿÿÿÿ8œ›ª°/
+e
+java:S3973O"HUse indentation to denote the code conditionally executed by this "for".(ÍÊğ8ïå­/
+m	java:S117e"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(À„ñì8—ïÿæş.
+:
+java:S1116˜"Remove this empty statement.(Òû—8‚ì­©‚/
+L
+java:S1874é".Remove this use of "enable"; it is deprecated.(å²Â8Ş¾²¬‚/
+J
+java:S1481Ô"'Remove this unused "id" local variable.(ùç–—ûÿÿÿÿ8¢Éìÿ.
+Q
+java:S1874Ã".Remove this use of "enable"; it is deprecated.(ÚªêÔüÿÿÿÿ8°ôÜ¬‚/
+E
+java:S1604ñ"(Make this anonymous inner class a lambda(››ıi8’Ş¬©‚/
+L
+java:S1874Š".Remove this use of "enable"; it is deprecated.(ù•Ú¥8™ÓÆ­‚/
+R
+java:S3740²"/Provide the parametrized type for this generic.(¥Ş°‡ÿÿÿÿÿ8œ›ª°/
+h
+java:S1192Œ"KDefine a constant instead of duplicating this literal "NgÃ y sinh" 3 times.(¯Ş½8Ú€Ê©‚/
+j
+java:S2095;"HUse try-with-resources or close this "Connection" in a "finally" clause.(½ëÉúÿÿÿÿ8²Şê‘ÿ.
+F
+java:S1125•"(Remove the literal "true" boolean value.(½“œÇ8„Û± ƒ/
+\
+java:S4973ô"9Use the "equals" method if value comparison was intended.(à›°úüÿÿÿÿ8ıš ƒ/
+E
+java:S1604â"(Make this anonymous inner class a lambda(–˜¢8Ş¾²¬‚/
+F
+java:S1604¿"(Make this anonymous inner class a lambda(¾Û ©8ş¥¯°/
+T
+java:S2696Á"6Make the enclosing method "static" or remove this set.(Šİı8Ú÷É¯/
+p
+java:S3008,"SRename this field "PASSWORD" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨Ëâ†8¶óæ‘ÿ.
+`
+java:S1126—"BReplace this if-then-else statement by a single method invocation.(¿íş¾8ıš ƒ/
+h
+java:S1124¬"EReorder the modifiers to comply with the Java Language Specification.(˜ÊòÎıÿÿÿÿ8ıš ƒ/
+v
+java:S2293'"YReplace the type specification in this constructor call with the diamond operator ("<>").(æŒûş8ïå­/
+F
+java:S1604"(Make this anonymous inner class a lambda(İû˜ù8’Ş¬©‚/
+^	java:S125÷"<This block of commented-out lines of code should be removed.(©°¹Öúÿÿÿÿ8ñ¼Šª‚/
+d
+java:S2095<"GUse try-with-resources or close this "Statement" in a "finally" clause.(ÏÜ¦¹8¯Ø†“ÿ.
+L
+java:S3740!"/Provide the parametrized type for this generic.(æÏ€á8ıº†ª‚/
+Q
+java:S1874Ä".Remove this use of "enable"; it is deprecated.(ş¬ŸØşÿÿÿÿ8°ôÜ¬‚/
+k
+java:S2095ô"HUse try-with-resources or close this "Connection" in a "finally" clause.(½ëÉúÿÿÿÿ8¯Ø†“ÿ.
+`
+java:S1126 "BReplace this if-then-else statement by a single method invocation.(˜ƒÑ°8ıš ƒ/
+>
+java:S3010Á" Remove this assignment of "min".(Šİı8Ú÷É¯/
+:
+java:S1116»"Remove this empty statement.(³‹¿8ãïĞ©‚/
+c
+java:S1128"ARemove this unused import 'javax.swing.table.AbstractTableModel'.(““öıÿÿÿÿ8˜óÁÿ.
+C
+java:S3010Ã" Remove this assignment of "min".(‘ùÒùÿÿÿÿ8ı’Ò°/
+Y
+java:S2696¾"6Make the enclosing method "static" or remove this set.(•åĞËşÿÿÿÿ8ïå­/
+F
+java:S1604‘"(Make this anonymous inner class a lambda(ÚØú§8’Ş¬©‚/
+T
+java:S2696Ä"6Make the enclosing method "static" or remove this set.(ºÆ£8©ãÒ°/
+>
+java:S3010Â"!Remove this assignment of "step".(àÀr8Ø©°°/
+[	java:S106û"9Replace this use of System.out or System.err by a logger.(çœŠ…şÿÿÿÿ8ıš ƒ/
+Q
+java:S1874Á".Remove this use of "enable"; it is deprecated.(çÉ÷ˆşÿÿÿÿ8ÚŞ¬‚/
+c
+java:S1192i"FDefine a constant instead of duplicating this literal "Serif" 6 times.(øÆ8‚ì­©‚/
+X	java:S110"<This class has 6 parents which is greater than 5 authorized.(¨´İ³8Ó”¹äş.
+K
+java:S1604Ï"(Make this anonymous inner class a lambda(—¸–Óøÿÿÿÿ8´°–ÿ.
+]	java:S125L"<This block of commented-out lines of code should be removed.(Êåë¾ÿÿÿÿÿ8ïå­/
+s
+java:S1192W"QDefine a constant instead of duplicating this literal "connect failure!" 5 times.(çœŠ…şÿÿÿÿ8¯Ø†“ÿ.
+L
+java:S1874æ".Remove this use of "enable"; it is deprecated.(º³¸ 8Ş¾²¬‚/
+L
+java:S2115‚")Add password protection to this database.(½ëÉúÿÿÿÿ8ıš ƒ/
+s	java:S117²"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥Ş°‡ÿÿÿÿÿ8œ›ª°/
+X	java:S1250"<This block of commented-out lines of code should be removed.(¹œÏÒ8ğ¿À’ÿ.
+L
+java:S2115Õ")Add password protection to this database.(½ëÉúÿÿÿÿ8ıš ƒ/
+:
+java:S1116Ù"Remove this empty statement.(ÿóâ¼8—ïÿæş.
+k
+java:S2095Õ"HUse try-with-resources or close this "Connection" in a "finally" clause.(½ëÉúÿÿÿÿ8…Î“ª‚/
+?
+java:S1116ä"Remove this empty statement.(Ì·âƒıÿÿÿÿ8Ğ¢­©‚/
+:
+java:S1116£"Remove this empty statement.(Œ“ÃÍ8‚ì­©‚/
+S
+java:S2696Â"6Make the enclosing method "static" or remove this set.(àÀr8Ø©°°/
+e
+java:S2095ƒ"GUse try-with-resources or close this "Statement" in a "finally" clause.(ÏÜ¦¹8ıš ƒ/
+™
+java:S2681Q"|This line will not be executed in a loop; only the first line of this 2-line block will be. The rest will execute only once.(Ğæ—ê8ïå­/
+e
+java:S3252a"IUse static access with "javax.swing.WindowConstants" for "EXIT_ON_CLOSE".(ºÀœx8—ïÿæş.
+?
+java:S1116ï"Remove this empty statement.(›îÉ‡üÿÿÿÿ8Ğ¢­©‚/
+Y
+java:S2696Ã"6Make the enclosing method "static" or remove this set.(‘ùÒùÿÿÿÿ8ı’Ò°/
